@@ -1,0 +1,23 @@
+{
+  "Songs": [
+    {
+      "duration": 100,
+      "artist": "eden",
+      "genre": "classical",
+      "title": "eden's song"
+    },
+    {
+      "duration": 1,
+      "artist": "e",
+      "genre": "blues",
+      "title": "a song"
+    },
+    {
+      "duration": 182,
+      "artist": "artist",
+      "genre": "rap",
+      "title": "a title"
+    }
+  ],
+  "Name": "My Playlist"
+}

@@ -1,0 +1,17 @@
+{
+    "Songs": [
+        {
+            "duration": 302,
+            "artist": "eden",
+            "genre": "Orchestral",
+            "title": "Song 1"
+        },
+        {
+            "duration": 196,
+            "artist": "Eun",
+            "genre": "Classical",
+            "title": "Song 2"
+        }
+    ],
+    "Name": "A Playlist"
+}
