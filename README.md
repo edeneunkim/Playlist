@@ -93,3 +93,6 @@ and LoadAction being directly associated. <br>
 to prevent unwanted behaviour and show a window. We can create a parent exception class and create more exception 
 classes that extend the parent exception class and differs in when they are caught and what window they create.
 </ul>
+
+## Final Remarks
+As this was a project for my CPSC210 course, I was limited by the criteria, such as being unable to have my application connect to the internet. For the future, I would like to make changes to this application by allowing users to additionally upload the song itself and have the program able to play the songs like in an actual playlist. 
